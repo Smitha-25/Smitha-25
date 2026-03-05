@@ -35,7 +35,7 @@ Core Java | Spring Boot | REST APIs | JWT Authentication
 MySQL  
 
 ### Tools
-Git | GitHub | Postman | Docker | Spring Tool Suite | VS Code  
+Git | Postman | Docker | Spring Tool Suite | VS Code  
 
 ---
 
