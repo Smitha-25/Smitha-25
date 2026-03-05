@@ -49,9 +49,6 @@ Used **MySQL** for database operations and implemented a modular layered backend
 **Tech Stack:**  
 Spring Boot | React | MySQL | REST APIs | JWT
 
-🔗 GitHub  
-https://github.com/Smitha-25
-
 ---
 
 ## 📜 Certifications
