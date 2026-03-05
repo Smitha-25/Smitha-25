@@ -3,10 +3,10 @@
 # Hi there, I'm Smitha 👋
 
 💻 Java Backend Developer (Fresher)  
-📍 India  
+📍 Bangalore, India  
 
 Passionate about building scalable backend applications using **Java, Spring Boot, and MySQL**.  
-Currently improving my **problem-solving skills and backend development knowledge** by building real-world projects.
+Currently improving my **problem-solving and backend development skills** by building real-world projects.
 
 </div>
 
@@ -14,40 +14,28 @@ Currently improving my **problem-solving skills and backend development knowledg
 
 ## 🚀 About Me
 - 🎓 Completed **Java Full Stack Development – KodNest**
-- 💡 Strong understanding of **Java, OOP concepts, and backend development**
-- 🌐 Built a full stack **E-Commerce Application**
-- 📚 Continuously learning **DSA, Java, and modern backend technologies**
+- 💡 Strong knowledge of **Java, OOP concepts, SQL, and backend development**
+- 🌐 Built a **Full Stack E-Commerce Application**
+- 📚 Continuously learning **DSA, Java Backend Development, and System Design basics**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- Java
-- SQL
-- JavaScript
+Java | SQL | JavaScript  
 
 ### Frontend
-- HTML
-- CSS
-- React
+HTML | CSS | React  
 
 ### Backend
-- Core Java
-- Spring Boot
-- REST APIs
-- JWT Authentication
+Core Java | Spring Boot | REST APIs | JWT Authentication  
 
 ### Database
-- MySQL
+MySQL  
 
 ### Tools
-- Git
-- GitHub
-- Postman
-- Docker
-- Spring Tool Suite (STS)
-- VS Code
+Git | GitHub | Postman | Docker | Spring Tool Suite | VS Code  
 
 ---
 
@@ -55,38 +43,35 @@ Currently improving my **problem-solving skills and backend development knowledg
 
 ### 🛒 Fashionix – Full Stack E-Commerce Application
 Developed a full-stack e-commerce application with authentication, product, cart, and order features.  
-Built RESTful APIs using **Spring Boot** and integrated them with a **React frontend**.  
-Used **MySQL** for database operations and implemented backend logic using a modular layered architecture.
+Built REST APIs using **Spring Boot** and integrated them with a **React frontend**.  
+Used **MySQL** for database operations and implemented a modular layered backend architecture.
 
 **Tech Stack:**  
 Spring Boot | React | MySQL | REST APIs | JWT
 
-🔗 GitHub Repository  
+🔗 GitHub  
 https://github.com/Smitha-25
-
----
-
-## 📊 GitHub Stats
-
-![Smitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smitha-25&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smitha-25&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📜 Certifications
 
-- **Java Full Stack Development – KodNest**
-- **React Basics – Coursera**
+**Java Full Stack Development – KodNest**  
+🔗 View Certificate  
+https://drive.google.com/file/d/1yjtOP4uG64ZoKRKjOP-czu1dTkx1GjOk/view
+
+**React Basics – Coursera**  
+🔗 View Certificate  
+https://drive.google.com/file/d/1Uj4Rh9ncxC7u4VbdbtBZYxMSuHWp3MkZ/view
 
 ---
 
 ## 📫 Connect With Me
 
 📧 Email: smitha2002s@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/smitha-shettigar-bb17a526b/
+💼 LinkedIn: https://linkedin.com/in/smitha-shettigar  
 🐙 GitHub: https://github.com/Smitha-25
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+⭐ Thanks for visiting my GitHub profile!
