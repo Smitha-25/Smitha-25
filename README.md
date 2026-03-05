@@ -1,45 +1,92 @@
 <div align="center">
 
-# Hi there, I'm Smitha! 👋
+# Hi there, I'm Smitha 👋
 
-I'm a [your role/profession, e.g., Software Developer] based in [your location, e.g., India]. Passionate about [your interests, e.g., web development, AI, and open-source contributions]. Let's connect!
+💻 Java Backend Developer (Fresher)  
+📍 India  
 
-## 📊 Quick Stats
-![Smitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smitha-25&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smitha-25&layout=compact&theme=radical)
-
-## 🛠️ Tech Stack
-- **Languages:** [e.g., Python, JavaScript, Java]
-- **Frameworks:** [e.g., React, Node.js, Spring Boot]
-- **Tools:** [e.g., Git, Docker, AWS]
-
-## 🔥 Pinned Repositories
-<!-- Replace with your actual repos or add badges -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Smitha-25&repo=your-repo-name&theme=radical)](https://github.com/Smitha-25/your-repo-name)
-
-## 📫 Contact Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/smitha-25](https://linkedin.com/in/smitha-25)
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-
-## 💡 Fun Fact
-[Add something fun, e.g., "When I'm not coding, I'm hiking or reading sci-fi novels!"]
-
-⭐️ From [Smitha-25](https://github.com/Smitha-25)
+Passionate about building scalable backend applications using **Java, Spring Boot, and MySQL**.  
+Currently improving my **problem-solving skills and backend development knowledge** by building real-world projects.
 
 </div>
 
 ---
 
-### How to Customize & Enhance
-1. **Add Your Details:** Fill in the placeholders (e.g., bio, tech stack) based on your experience. Update your GitHub profile settings (under "Edit profile") to auto-populate more info like location or website.
-2. **Profile Stats:** The cards above use [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)—they'll auto-update with your activity. No setup needed!
-3. **Profile Photo:** Upload an image to your repo's `assets/` folder and reference it like `![Profile](assets/profile.jpg)` at the top.
-4. **More Sections:** Consider adding:
-   - **Skills:** A table or badges (e.g., via [shields.io](https://shields.io)).
-   - **Projects:** List repos with descriptions and links.
-   - **Certifications:** Badges from Coursera, etc.
-5. **Preview:** GitHub's editor has a live preview—test before committing.
+## 🚀 About Me
+- 🎓 Completed **Java Full Stack Development – KodNest**
+- 💡 Strong understanding of **Java, OOP concepts, and backend development**
+- 🌐 Built a full stack **E-Commerce Application**
+- 📚 Continuously learning **DSA, Java, and modern backend technologies**
 
-This will make your profile stand out! If you share more details (e.g., your skills or links), I can refine this further. 🚀
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- SQL
+- JavaScript
+
+### Frontend
+- HTML
+- CSS
+- React
+
+### Backend
+- Core Java
+- Spring Boot
+- REST APIs
+- JWT Authentication
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Postman
+- Docker
+- Spring Tool Suite (STS)
+- VS Code
+
+---
+
+## 📌 Projects
+
+### 🛒 Fashionix – Full Stack E-Commerce Application
+Developed a full-stack e-commerce application with authentication, product, cart, and order features.  
+Built RESTful APIs using **Spring Boot** and integrated them with a **React frontend**.  
+Used **MySQL** for database operations and implemented backend logic using a modular layered architecture.
+
+**Tech Stack:**  
+Spring Boot | React | MySQL | REST APIs | JWT
+
+🔗 GitHub Repository  
+https://github.com/Smitha-25
+
+---
+
+## 📊 GitHub Stats
+
+![Smitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smitha-25&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smitha-25&layout=compact&theme=tokyonight)
+
+---
+
+## 📜 Certifications
+
+- **Java Full Stack Development – KodNest**
+- **React Basics – Coursera**
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: smitha2002s@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/smitha-shettigar-bb17a526b/
+🐙 GitHub: https://github.com/Smitha-25
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
